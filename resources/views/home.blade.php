@@ -1,4 +1,4 @@
-@extends('header')
+@extends('layouts.header')
 @section('title')
     home
 @endsection
